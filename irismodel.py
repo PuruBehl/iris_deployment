@@ -28,7 +28,7 @@ st.markdown("Petal Width :")
 pw=st.text_input("4")
 
 
-path='C:/Users/PURU/Desktop/Python/Model Deployment/Iris model deployment/models/Tree_model_iris.pkl'
+path='model/Tree_model_iris.pkl'
 
 # Loading the model (Decision Tree Model)
 
