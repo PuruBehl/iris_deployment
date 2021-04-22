@@ -4,7 +4,7 @@ import streamlit as st
 from sklearn.tree import DecisionTreeClassifier
 
 
-def run() :
+def run():	
 	# Adding title to the project
 	st.title("Iris species Detection")
 
@@ -52,4 +52,5 @@ def run() :
 
 if __name__ == "__main__":
     run()
+
 
