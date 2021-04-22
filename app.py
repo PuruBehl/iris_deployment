@@ -1,7 +1,7 @@
 import pickle
 import numpy as np
 import streamlit as st
-from sklearn.tree import DecisionTreeClassifier
+# from sklearn.tree import DecisionTreeClassifier
 
 
 def run():	
